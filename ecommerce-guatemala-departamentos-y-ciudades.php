@@ -1,13 +1,13 @@
 <?php
 /**
- * Plugin Name: WooCommerce Guatemala Departamentos y Ciudades
+ * Plugin Name: eCommerce Guatemala Departamentos y Ciudades
  * Description: Plugin modificado con los departementos y ciudades de Guatemala
  * Version: 1.0.0
  * Author: Edwin Xico
  * Author URI: https://coders.club.gt
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
- * Text Domain: ecommerce-guatemala-deptos
+ * Text Domain: dl-ecommerce-guatemala
  * Domain Path: /languages
  * WC tested up to: 4.0
  * WC requires at least: 3.6
