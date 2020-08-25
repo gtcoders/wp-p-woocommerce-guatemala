@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Departamentos y Ciudades de Guatemala para Woocommerce
+ * Plugin Name: WooCommerce Guatemala Departamentos y Ciudades
  * Description: Plugin modificado con los departementos y ciudades de Guatemala
  * Version: 1.0.0
  * Author: Edwin Xico
