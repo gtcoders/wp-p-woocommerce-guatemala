@@ -7,7 +7,7 @@
  * Author URI: https://coders.club.gt
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
- * Text Domain: dl-ecommerce-guatemala
+ * Text Domain: wc-guatemala
  * Domain Path: /languages
  * WC tested up to: 4.0
  * WC requires at least: 3.6
