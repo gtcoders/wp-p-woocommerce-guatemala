@@ -60,13 +60,12 @@ e.g.
 
 == Frequently Asked Questions ==
 
-= It includes all the cities of the 32 departments?
+= It includes all the cities of the 22 departments?
 
-Only major cities of each department.
+It cinludes only the municipalities of each of the 22 departments.
 
 = Something else you have not told me?
 
-* Bogotá is not included as a state, because it is not discarded
 * In the shipping area so you can impose rules you must first add the department in the field of states
 
 = They are not loading the states or departments at the checkout to what is due?
@@ -83,9 +82,9 @@ Only major cities of each department.
 
 == Changelog ==
 = 1.0 =
-* 24/10/2016 First release.
+* 01/09/2020 First release.
 
 
 == Upgrade Notice ==
-= 1.1 =
-* Added Bogota D.C as state and localities.
+= 1.0 =
+* Include sanitization/escaping to comply with the WordPress development guidelines.
