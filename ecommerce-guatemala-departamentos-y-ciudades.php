@@ -21,8 +21,8 @@ add_action('plugins_loaded','states_places_guatemala_init',1);
 
 function states_places_guatemala_smp_notices($classes, $notice){
     ?>
-    <div class="<?php echo $classes; ?>">
-        <p><?php echo $notice; ?></p>
+    <div class="<?php echo esc_attr( $classes ); ?>">
+        <p><?php echo esc_html( $notice ); ?></p>
     </div>
     <?php
 }

@@ -180,7 +180,8 @@ function filters_by_cities_method() {
             {
                 if (!isset($_REQUEST['instance_id']))
                     return array();
-                $ins = WC_Shipping_Zones::get_zone_by( 'instance_id', $_REQUEST['instance_id'] );
+                $request = sanitize_text_field($_REQUEST['instance_id']);
+                $ins = WC_Shipping_Zones::get_zone_by( 'instance_id', $request );
                 $data = $ins->get_data();
                 if (!isset($data['zone_locations']))
                     return array();
