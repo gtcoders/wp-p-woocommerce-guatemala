@@ -25,8 +25,8 @@ function filters_by_cities_method() {
 
                 $this->id                 = 'filters_by_cities_shipping_method';
                 $this->instance_id				= absint( $instance_id );
-                $this->method_title       = __( 'Shipping filter By Cities', 'departamentos-y-ciudades-de-guatemala-para-woocommerce' );
-                $this->method_description = __( 'Allows adding rules by city', 'departamentos-y-ciudades-de-guatemala-para-woocommerce' );
+                $this->method_title       = __( 'Shipping filter By Cities', 'wc-guatemala' );
+                $this->method_description = __( 'Allows adding rules by city', 'wc-guatemala' );
 
                 $this->supports = array(
                     'settings',

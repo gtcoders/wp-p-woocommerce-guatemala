@@ -7,10 +7,10 @@ $methods = array();
 
 ?>
     <tr valign="top">
-        <th colspan="2" scope="row" class="titledesc"><?php esc_html_e( 'Configured Shipping filter By Cities  Methods in all shipping zones', 'departamentos-y-ciudades-de-guatemala-para-woocommerce' ) ?></th>
+        <th colspan="2" scope="row" class="titledesc"><?php esc_html_e( 'Configured Shipping filter By Cities  Methods in all shipping zones', 'wc-guatemala' ) ?></th>
     </tr>
     <tr valign="top">
-        <td colspan="2" class="forminp" id="<?php echo esc_attr( $this->id ); ?>_rules_shipping_methods"><?php echo sprintf(esc_html__( 'This table shows <a href="%s">all shipping zones</a> and for each zone the shipping methods provided by this plugin.' , 'departamentos-y-ciudades-de-guatemala-para-woocommerce'), admin_url( 'admin.php?page=wc-settings&tab=shipping' ) ); ?>
+        <td colspan="2" class="forminp" id="<?php echo esc_attr( $this->id ); ?>_rules_shipping_methods"><?php echo sprintf(esc_html__( 'This table shows <a href="%s">all shipping zones</a> and for each zone the shipping methods provided by this plugin.' , 'wc-guatemala'), admin_url( 'admin.php?page=wc-settings&tab=shipping' ) ); ?>
 
             <table class="rules_shipping_methods wc-shipping-zones widefat striped" cellspacing="0">
                 <thead>

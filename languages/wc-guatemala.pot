@@ -1,73 +1,69 @@
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Departamentos y Ciudades de Guatemala para Woocommerce\n"
+"Project-Id-Version: WC Guatemala Departamentos y Ciudades\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-02 14:18+0000\n"
-"PO-Revision-Date: 2019-02-02 14:20+0000\n"
-"Last-Translator: wpdev <cortuclas@gmail.com>\n"
-"Language-Team: Español\n"
-"Language: es_ES\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"POT-Creation-Date: 2020-09-06 07:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
-"X-Loco-Version: 2.2.0; wp-5.0.3"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
 
-#: departamentos-y-ciudades-de-guatemala-para-woocommerce.php:57
+#: wc-guatemala-departamentos-y-ciudades.php:57
 msgid ""
 "<strong>Te gustaria conectar tu tienda con las principales transportadoras "
 "del país ?.\n"
 "        Sé uno de los primeros</strong> "
 msgstr ""
 
-#: departamentos-y-ciudades-de-guatemala-para-woocommerce.php:59
+#: wc-guatemala-departamentos-y-ciudades.php:59
 #, php-format
 msgid "%s"
 msgstr ""
 
-#: departamentos-y-ciudades-de-guatemala-para-woocommerce.php:61
+#: wc-guatemala-departamentos-y-ciudades.php:61
 msgid "Suscribete Gratis"
 msgstr ""
 
 #: includes/filter-by-cities.php:28
 msgid "Shipping filter By Cities"
-msgstr "Filtro de envío por ciudades"
+msgstr ""
 
 #: includes/filter-by-cities.php:29
 msgid "Allows adding rules by city"
-msgstr "Permite agregar reglas por ciudad"
+msgstr ""
 
 #: includes/settings-filter-by-cities.php:16
 msgid "Single method"
-msgstr "Método único"
+msgstr ""
 
 #: includes/settings-filter-by-cities.php:18
 msgid ""
 "When doing single shipping method, it eliminates all others and imposes its "
 "own rules"
 msgstr ""
-"Al hacer método de envío único, elimina todos los demás e impone sus propias "
-"reglas"
 
 #: includes/settings-filter-by-cities.php:46
 msgid "Coste"
-msgstr "Costo"
+msgstr ""
 
 #: includes/settings-filter-by-cities.php:53
 msgid "Cities"
-msgstr "Ciudades"
+msgstr ""
 
 #: includes/settings-filter-by-cities.php:56
 msgid "Select the city referring to the region that you have previously added"
 msgstr ""
-"Seleccione la ciudad que se refiere a la región que ha agregado previamente"
 
 #: includes/admin/html/html-shipping-methods.php:10
 msgid "Configured Shipping filter By Cities  Methods in all shipping zones"
 msgstr ""
-"Filtro de envío configurado por ciudades Métodos en todas las zonas de "
-"envío\n"
 
 #: includes/admin/html/html-shipping-methods.php:13
 #, php-format
@@ -75,21 +71,19 @@ msgid ""
 "This table shows <a href=\"%s\">all shipping zones</a> and for each zone the "
 "shipping methods provided by this plugin."
 msgstr ""
-"This table shows <a href=\"%s\">all shipping zones</a> and for each zone the "
-"shipping methods provided by this plugin."
 
 #. Name of the plugin
-msgid "Departamentos y Ciudades de Guatemala para Woocommerce"
-msgstr "Departamentos y Ciudades de Guatemala para Woocommerce"
+msgid "WC Guatemala Departamentos y Ciudades"
+msgstr ""
 
 #. Description of the plugin
 msgid "Plugin modificado con los departementos y ciudades de Guatemala"
-msgstr "Plugin modificado con los departementos y ciudades de Guatemala"
+msgstr ""
 
 #. Author of the plugin
-msgid "Edwin Xico"
-msgstr "Edwin Xico"
+msgid "XicoOfficial, gtcoders, digitallabs"
+msgstr ""
 
 #. Author URI of the plugin
 msgid "https://coders.club.gt"
-msgstr "https://coders.club.gt"
+msgstr ""

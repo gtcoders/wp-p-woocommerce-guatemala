@@ -13,9 +13,9 @@ $cost_desc = __( 'Enter a cost (excl. tax) or sum, e.g. <code>10.00 * [qty]</cod
 
 $settings =  array(
     'single_method' => array(
-        'title' 		=> __( 'Single method', 'departamentos-y-ciudades-de-guatemala-para-woocommerce' ),
+        'title' 		=> __( 'Single method', 'wc-guatemala' ),
         'type' 			=> 'select',
-        'description' 	=> __( 'When doing single shipping method, it eliminates all others and imposes its own rules', 'departamentos-y-ciudades-de-guatemala-para-woocommerce' ),
+        'description' 	=> __( 'When doing single shipping method, it eliminates all others and imposes its own rules', 'wc-guatemala' ),
         'class'         => 'wc-enhanced-select',
         'default' 		=> 'yes',
         'desc_tip'		=> true,
@@ -43,17 +43,17 @@ $settings =  array(
         )
     ),
     'cost' => array(
-        'title' => __('Coste', 'departamentos-y-ciudades-de-guatemala-para-woocommerce'),
+        'title' => __('Coste', 'wc-guatemala'),
         'type' 			=> 'text',
         'description' 	=> $cost_desc,
         'default'		=> '0',
         'desc_tip'		=> true
     ),
     'cities' => array(
-        'title' => __('Cities','departamentos-y-ciudades-de-guatemala-para-woocommerce'),
+        'title' => __('Cities','wc-guatemala'),
         'type' => 'multiselect',
         'class'       => 'wc-enhanced-select',
-        'description' => __( 'Select the city referring to the region that you have previously added', 'departamentos-y-ciudades-de-guatemala-para-woocommerce' ),
+        'description' => __( 'Select the city referring to the region that you have previously added', 'wc-guatemala' ),
         'options' => $this->showCitiesRegions(),
         'desc_tip'    => true,
     )

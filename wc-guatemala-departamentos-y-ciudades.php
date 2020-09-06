@@ -3,7 +3,7 @@
  * Plugin Name: WC Guatemala Departamentos y Ciudades
  * Description: Plugin modificado con los departementos y ciudades de Guatemala
  * Version: 1.0.0
- * Author: Edwin Xico
+ * Author: XicoOfficial, gtcoders, digitallabs
  * Author URI: https://coders.club.gt
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -28,7 +28,7 @@ function states_places_guatemala_smp_notices($classes, $notice){
 }
 
 function states_places_guatemala_init(){
-    load_plugin_textdomain('departamentos-y-ciudades-de-guatemala-para-woocommerce',
+    load_plugin_textdomain('wc-guatemala',
         FALSE, dirname(plugin_basename(__FILE__)) . '/languages');
 
     /**
@@ -55,10 +55,10 @@ function states_places_guatemala_init(){
         add_action( 'woocommerce_shipping_init', 'filters_by_cities_method' );
 
         $subs = __( '<strong>Te gustaria conectar tu tienda con las principales transportadoras del país ?.
-        Sé uno de los primeros</strong> ', 'departamentos-y-ciudades-de-guatemala-para-woocommerce' ) .
-            sprintf(__('%s', 'departamentos-y-ciudades-de-guatemala-para-woocommerce' ),
+        Sé uno de los primeros</strong> ', 'wc-guatemala' ) .
+            sprintf(__('%s', 'wc-guatemala' ),
                 '<a class="button button-primary" href="https://coders.club.gt/shipping-guatemala.php">' .
-                __('Suscribete Gratis', 'departamentos-y-ciudades-de-guatemala-para-woocommerce') . '</a>' );
+                __('Suscribete Gratis', 'wc-guatemala') . '</a>' );
 
         global $pagenow;
 
