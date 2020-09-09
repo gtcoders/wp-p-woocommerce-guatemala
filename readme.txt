@@ -1,5 +1,5 @@
 === WC Guatemala Departamentos y Ciudades ===
-Contributors: xicoofficial
+Contributors: xicoofficial, gtcoders, digitallabs
 Tags: woocommerce, Guatemala, departamentos, ciudades, states cities,woocommerce departamentos de Guatemala, woocommerce ciudades de Guatemala, desplegable, departamentos desplegables, ciudades desplegables, city dropdown, state dropdown, city select, cities select,
 seleccionar ciudades,seleccionar departamentos
 Requires at least: 5.4
