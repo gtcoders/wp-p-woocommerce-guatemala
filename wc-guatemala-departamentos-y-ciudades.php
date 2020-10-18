@@ -9,7 +9,7 @@
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: wc-guatemala
  * Domain Path: /languages
- * WC tested up to: 4.4
+ * WC tested up to: 4.6
  * WC requires at least: 3.6
  */
 
