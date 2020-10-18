@@ -3,8 +3,8 @@ Contributors: xicoofficial, gtcoders, digitallabs
 Tags: woocommerce, Guatemala, departamentos, ciudades, states cities,woocommerce departamentos de Guatemala, woocommerce ciudades de Guatemala, desplegable, departamentos desplegables, ciudades desplegables, city dropdown, state dropdown, city select, cities select,
 seleccionar ciudades,seleccionar departamentos
 Requires at least: 5.4
-Tested up to: 5.4
-Stable tag: 1.0.0
+Tested up to: 5.5
+Stable tag: 1.0.1
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -83,6 +83,9 @@ It cinludes only the municipalities of each of the 22 departments.
 == Changelog ==
 = 1.0 =
 * 01/09/2020 First release.
+
+= 1.0.1 =
+* 17/10/2020 Tested with WC 4.4
 
 
 == Upgrade Notice ==

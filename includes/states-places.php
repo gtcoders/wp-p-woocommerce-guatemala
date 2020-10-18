@@ -18,7 +18,15 @@ public function __construct($file)
 {
     self::$file = $file;
     add_action( 'plugins_loaded', array( $this, 'init') );
+    add_action('admin_notices', array( $this, 'dl_sdc_admin_notice' ));
 }
+
+    public function dl_sdc_admin_notice(){
+        echo '<div class="notice notice-info">
+            <p>' . __('You are using the <strong>Guatemala Cities and States for WooCommerce</strong> plugin developed by <a href="https://digitallabs.agency" target="_blank">Digital Labs</a>. If you need assistance configuring the plugin, help with your eCommerce site or just want to say hi, feel free to contact us <a href="https://digitallabs.agency/contacto" target="_blank">here</a>. We will be happy to work with you.', 'wc-guatemala') . '</p>
+            </div>';
+    }
+
 
 /**
 * WC init

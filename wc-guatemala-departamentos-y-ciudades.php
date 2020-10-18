@@ -2,14 +2,14 @@
 /**
  * Plugin Name: WC Guatemala Departamentos y Ciudades
  * Description: Plugin modificado con los departementos y ciudades de Guatemala
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: XicoOfficial, gtcoders, digitallabs
- * Author URI: https://coders.club.gt
+ * Author URI: https://digitallabs.agency
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: wc-guatemala
  * Domain Path: /languages
- * WC tested up to: 4.0
+ * WC tested up to: 4.4
  * WC requires at least: 3.6
  */
 
