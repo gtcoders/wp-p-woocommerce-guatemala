@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: WC Guatemala Departamentos y Ciudades
- * Description: Plugin modificado con los departementos y ciudades de Guatemala
- * Version: 1.0.1
+ * Plugin Name: Guatemala States and Cities for WooCommerce
+ * Description: Plugin that adds states and cities for WooCommerce shopping featurs.
+ * Version: 1.0.2
  * Author: XicoOfficial, gtcoders, digitallabs
  * Author URI: https://digitallabs.agency
  * License: GNU General Public License v3.0
